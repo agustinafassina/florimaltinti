@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\bin\Debug\Florencia Maltinti.exe.config
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\bin\Debug\Florencia Maltinti.exe
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\bin\Debug\Florencia Maltinti.pdb
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti.g.resources
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia_Maltinti.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti.exe
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti\Florencia Maltinti\obj\Debug\Florencia Maltinti.pdb

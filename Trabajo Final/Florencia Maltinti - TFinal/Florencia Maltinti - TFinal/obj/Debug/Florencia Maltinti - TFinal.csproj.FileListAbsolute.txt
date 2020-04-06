@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\bin\Debug\Florencia Maltinti - TFinal.exe.config
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\bin\Debug\Florencia Maltinti - TFinal.exe
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\bin\Debug\Florencia Maltinti - TFinal.pdb
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal.g.resources
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia_Maltinti___TFinal.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal.exe
+C:\Users\Administrator\Desktop\Programming\Trabajo Final\Florencia Maltinti - TFinal\Florencia Maltinti - TFinal\obj\Debug\Florencia Maltinti - TFinal.pdb

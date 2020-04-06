@@ -1,0 +1,21 @@
+CLASS 5
+
+-Pedir nombre y hacer que repita 80 veces
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.Write("Type your first name: ");
+		string myFirstName; 
+            myFirstName = Console.ReadLine();
+		
+		for (int i=0; i < 81; i++)
+		{
+			Console.WriteLine (myFirstName + "{0}", i);
+		}
+	}
+}
+
